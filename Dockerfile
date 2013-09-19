@@ -76,4 +76,3 @@ RUN chmod 755 /start.sh
 EXPOSE 80
 #
 CMD ["/bin/bash", "/start.sh"]
-CMD ["/bin/bash"]
